@@ -1,2 +1,3 @@
 def get_response():
-    return "This may be a good time to tackle a challenging task."
+    return "That's great, you should make the most of your day!"
+    
