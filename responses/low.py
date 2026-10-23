@@ -1,2 +1,2 @@
 def get_response():
-    return "Take a short break and get some water."
+    return "Go outside and soak in some sunshine."
